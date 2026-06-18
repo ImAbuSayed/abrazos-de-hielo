@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazos-de-hielo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Abrazos de hielo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazos-de-hielo/) |
+| **Get License** | [License this song: Abrazos de hielo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazos-de-hielo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tus abrazos de hielo me queman la piel
+> Dime qué me hiciste, que todo sabe a miel
+> Bailando en la sombra, perdiéndonos sin ver
+> Un juego peligroso, y yo quiero perder
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
