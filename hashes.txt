@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Abrazos de hielo
+
+This log tracks the cryptographic history and versioning for the song **Abrazos de hielo** (abrazos-de-hielo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T06:02:21.630302 | `v1` | `801a02a68672809dca7e0b81c0936e9774da56b1a5eab16d5da964034c72db0d` | `149cc1c60ada60f5bf4d6945e80fb3f5546013fb34b911dce55ed1b89e85ca25` | `2026-06-18_abrazos-de-hielo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
